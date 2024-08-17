@@ -122,12 +122,6 @@ Once the application is up and running, users can:
 - **Log in** to manage books and authors.
 - **Create**, **edit**, and **delete** books and authors after logging in.
 
-## Screenshots
-
-Add some screenshots of your application here to showcase its functionality and design.
-
-![Books List](screenshots/books_list.png)
-![Add New Book](screenshots/add_new_book.png)
 
 ## Issues and Contributions
 
